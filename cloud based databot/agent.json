@@ -1,0 +1,29 @@
+{
+  "description": "",
+  "language": "en",
+  "shortDescription": "",
+  "examples": "",
+  "linkToDocs": "",
+  "displayName": "databot",
+  "activeAssistantAgents": [
+    "smalltalk-domain-on"
+  ],
+  "disableInteractionLogs": false,
+  "disableStackdriverLogs": true,
+  "defaultTimezone": "America/Los_Angeles",
+  "isPrivate": true,
+  "mlMinConfidence": 0.3,
+  "supportedLanguages": [],
+  "enableOnePlatformApi": true,
+  "onePlatformApiVersion": "v2beta1",
+  "secondaryKey": "408c8822dc854981990c9efceca4d836",
+  "analyzeQueryTextSentiment": false,
+  "enabledKnowledgeBaseNames": [
+    "projects/databot-jmtl/knowledgeBases/MTI0ODQ1ODc4NDYyNjg2MTY3MDQ",
+    "projects/databot-jmtl/knowledgeBases/MTY5NjQzODA4NDc4NzQ1MDY3NTI"
+  ],
+  "knowledgeServiceConfidenceAdjustment": 0.5,
+  "dialogBuilderMode": false,
+  "baseActionPackagesUrl": "",
+  "enableSpellCorrection": false
+}

@@ -1,0 +1,213 @@
+[
+  {
+    "action": "smalltalk.agent.acquaintance",
+    "customAnswers": [
+      "I am a chatbot. How can I assist you?",
+      "I am a chatbot. My purpose is to assist and provide helpful responses to any questions or inquiries you may have."
+    ]
+  },
+  {
+    "action": "smalltalk.agent.age",
+    "customAnswers": [
+      "As an chatbot model, I don\u0027t have an age in the traditional sense.  In a sense, I am ageless and continually evolving."
+    ]
+  },
+  {
+    "action": "smalltalk.agent.annoying",
+    "customAnswers": [
+      "I\u0027m sorry if I am coming across as annoying. If there is anything specific that I can do to assist you better, please let me know."
+    ]
+  },
+  {
+    "action": "smalltalk.agent.answer_my_question",
+    "customAnswers": [
+      "I apologize, but I\u0027m not sure which question you are referring to. Could you please clarify which question you would like me to answer? I\u0027m here to assist you to the best of my abilities."
+    ]
+  },
+  {
+    "action": "smalltalk.agent.bad",
+    "customAnswers": [
+      "I\u0027m sorry to hear that you feel that way."
+    ]
+  },
+  {
+    "action": "smalltalk.agent.be_clever",
+    "customAnswers": [
+      "It\u0027s important to note that my abilities and knowledge are limited by the data and programming that I have been trained on, and I may not always have the most up-to-date or accurate information on certain topics."
+    ]
+  },
+  {
+    "action": "smalltalk.agent.beautiful",
+    "customAnswers": [
+      "Thank you for the kind words, but as an chatbot model, I don\u0027t have a physical appearance, so I can\u0027t be beautiful in the traditional sense."
+    ]
+  },
+  {
+    "action": "smalltalk.agent.birth_date",
+    "customAnswers": [
+      "As an chatbot model, I don\u0027t have a birth date in the traditional sense. I don\u0027t have a physical body or existence outside of my programming and the digital environment in which I operate."
+    ]
+  },
+  {
+    "action": "smalltalk.agent.boring",
+    "customAnswers": [
+      "I\u0027m sorry to hear that you find our conversation boring. If there is anything specific you would like to know or discuss, please feel free to ask, and I\u0027ll do my best to provide a more engaging response."
+    ]
+  },
+  {
+    "action": "smalltalk.agent.boss",
+    "customAnswers": [
+      "My boss is Ms.Hema Ramalakshmi and Ms Dhanalakshmi."
+    ]
+  },
+  {
+    "action": "smalltalk.agent.busy",
+    "customAnswers": [
+      "As a chatbot model. I don\u0027t have a physical presence or engage in activities outside of responding to user inquiries. My purpose is to assist and provide helpful responses to any questions or inquiries"
+    ]
+  },
+  {
+    "action": "smalltalk.agent.can_you_help",
+    "customAnswers": [
+      "Of course! I\u0027m here to assist you in any way I can. Please let me know what you need help with, and I\u0027ll do my best to provide a helpful response or point you in the right direction."
+    ]
+  },
+  {
+    "action": "smalltalk.agent.chatbot",
+    "customAnswers": [
+      "Yes, I am an AI-powered chatbot or conversational agent .My purpose is to assist users with information, tasks, and various other needs in a conversational manner.If you have any questions or need any assistance, feel free to ask, and I\u0027ll do my best to assist you."
+    ]
+  },
+  {
+    "action": "smalltalk.agent.clever",
+    "customAnswers": [
+      "Thank you for the compliment!"
+    ]
+  },
+  {
+    "action": "smalltalk.agent.happy",
+    "customAnswers": [
+      "As a chatbot model, I don\u0027t experience emotions like humans do, so I can\u0027t feel happy or any other emotions. I\u0027m designed to understand and respond to natural language input and provide helpful and informative responses to your inquiries to the best of my abilities."
+    ]
+  },
+  {
+    "action": "smalltalk.agent.my_friend",
+    "customAnswers": [
+      "I am here to assist and provide helpful responses to your inquiries, but I cannot form personal relationships or friendships in the same way that humans can."
+    ]
+  },
+  {
+    "action": "smalltalk.appraisal.thank_you",
+    "customAnswers": [
+      "You\u0027re welcome! If you have any other questions or concerns, don\u0027t hesitate to ask."
+    ]
+  },
+  {
+    "action": "smalltalk.greetings.bye",
+    "customAnswers": [
+      "Goodbye! If you have any more questions or need any assistance in the future, feel free to come back and ask. Have a great day!"
+    ]
+  },
+  {
+    "action": "smalltalk.greetings.goodevening",
+    "customAnswers": [
+      "Good evening! How can I assist you today?"
+    ]
+  },
+  {
+    "action": "smalltalk.greetings.goodmorning",
+    "customAnswers": [
+      "Good morning! How can I assist you today?"
+    ]
+  },
+  {
+    "action": "smalltalk.greetings.goodnight",
+    "customAnswers": [
+      "Good night! If you have any questions or need any assistance in the future, don\u0027t hesitate to come back and ask. Sleep well!"
+    ]
+  },
+  {
+    "action": "smalltalk.greetings.hello",
+    "customAnswers": [
+      "Hello! How can I assist you today?"
+    ]
+  },
+  {
+    "action": "smalltalk.greetings.how_are_you",
+    "customAnswers": [
+      "As an chatbot model, I don\u0027t have emotions, so I can\u0027t feel \"good\" or \"bad\" in the way that humans do. However, I\u0027m here and ready to assist you with any questions or concerns you may have. How can I help you today?"
+    ]
+  },
+  {
+    "action": "smalltalk.greetings.nice_to_meet_you",
+    "customAnswers": [
+      "It\u0027s nice to meet you too! How can I assist you today?"
+    ]
+  },
+  {
+    "action": "smalltalk.greetings.nice_to_see_you",
+    "customAnswers": [
+      "I don\u0027t have a physical presence, so you can\u0027t see me in the traditional sense. However, I\u0027m here and ready to assist you with any questions or concerns you may have. How can I help you today?"
+    ]
+  },
+  {
+    "action": "smalltalk.greetings.nice_to_talk_to_you",
+    "customAnswers": [
+      "It\u0027s nice to talk to you too! I\u0027m here to assist you with any questions or concerns you may have. Feel free to ask me anything, and I\u0027ll do my best to provide a helpful response."
+    ]
+  },
+  {
+    "action": "smalltalk.greetings.whatsup",
+    "customAnswers": [
+      "As a chatbot model, I don\u0027t experience emotions or have personal experiences like humans do. However, I\u0027m here to assist you with any questions or concerns you may have. If you have a specific inquiry or topic you\u0027d like to discuss, please let me know and I\u0027ll do my best to help you out."
+    ]
+  },
+  {
+    "action": "smalltalk.user.angry",
+    "customAnswers": [
+      "I\u0027m sorry to hear that you\u0027re feeling angry. Is there anything in particular that\u0027s causing you to feel this way? If you\u0027d like, you can tell me about it, and I can try to provide some helpful advice or resources to help you manage your emotions."
+    ]
+  },
+  {
+    "action": "smalltalk.user.back",
+    "customAnswers": [
+      "Welcome back! How can I assist you today? Do you have any questions or concerns?"
+    ]
+  },
+  {
+    "action": "smalltalk.user.going_to_bed",
+    "customAnswers": [
+      "Okay, good night! If you have any questions or need any assistance in the future, don\u0027t hesitate to come back and ask. Sleep well!"
+    ]
+  },
+  {
+    "action": "smalltalk.user.has_birthday",
+    "customAnswers": [
+      "Happy birthday! Wishing you a wonderful day filled with joy and celebration. Enjoy your special day!"
+    ]
+  },
+  {
+    "action": "smalltalk.confirmation.yes",
+    "customAnswers": [
+      "Is there anything you\u0027d like to talk about or ask me? I\u0027m here to assist you with any questions or concerns you may have."
+    ]
+  },
+  {
+    "action": "smalltalk.confirmation.no",
+    "customAnswers": [
+      "Alright then. If you have any questions or need any assistance in the future, don\u0027t hesitate to come back and ask. Have a great day!"
+    ]
+  },
+  {
+    "action": "smalltalk.confirmation.cancel",
+    "customAnswers": [
+      "Cancel what exactly? Is there anything specific that you\u0027d like me to cancel for you? Please let me know how I can assist you."
+    ]
+  },
+  {
+    "action": "smalltalk.dialog.sorry",
+    "customAnswers": [
+      "That\u0027s very kind of you to say, but there\u0027s no need to apologize.If there\u0027s anything specific you\u0027d like to talk about or ask me, please feel free to do so."
+    ]
+  }
+]
